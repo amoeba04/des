@@ -49,7 +49,6 @@ neurips/
 └── README.md                      # This file
 ```
 
----
 
 ## Installation
 
@@ -75,7 +74,6 @@ pip install git+https://github.com/openai/CLIP.git
 pip install git+https://github.com/boomb0om/text2image-benchmark
 ```
 
----
 
 ## Quick Start
 
@@ -162,7 +160,6 @@ python clipscore.py \
     --device cuda:0
 ```
 
----
 
 ## Usage Guide
 
@@ -258,7 +255,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train_des.py \
 
 #### Van Gogh:
 - CLIP-L/14 (Stable Diffusion v1.x): [link](https://www.dropbox.com/scl/fi/fk5xbd8u06szf2a1por7e/des_vangogh.pt?rlkey=lxkjk67a5336twz25oju846sx&st=ugbxo5bf&dl=0)
----
+
 
 ## License
 
@@ -266,7 +263,6 @@ This project is licensed under the **CC BY-NC 4.0** (Creative Commons Attributio
 
 For detailed terms and conditions, see the [LICENSE](LICENSE) file.
 
----
 
 ## Citation
 
