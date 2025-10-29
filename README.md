@@ -2,7 +2,7 @@
 
 **Official implementation of the paper accepted at NeurIPS 2025**
 
-[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue)](https://neurips.cc/virtual/2025/poster/120328)
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue)](https://neurips.cc)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.18877-b31b1b.svg)](https://arxiv.org/abs/2501.18877v1)
 
 > **Authors**: Jaesin Ahn, Heechul Jung (Kyungpook National University)
@@ -258,6 +258,14 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train_des.py \
 
 #### Van Gogh:
 - CLIP-L/14 (Stable Diffusion v1.x): [link](https://www.dropbox.com/scl/fi/fk5xbd8u06szf2a1por7e/des_vangogh.pt?rlkey=lxkjk67a5336twz25oju846sx&st=ugbxo5bf&dl=0)
+---
+
+## License
+
+This project is licensed under the **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial 4.0 International License).
+
+For detailed terms and conditions, see the [LICENSE](LICENSE) file.
+
 ---
 
 ## Citation
