@@ -22,7 +22,7 @@ DES transforms unsafe embeddings extracted from text encoders toward carefully c
 
 ### Supported Models
 
-- **Stable Diffusion**: v1.4, v1.5, v2.x, XL, v3.x, v3.5
+- **Stable Diffusion**: v1.x, v2.x, XL, v3.x
 - **FLUX.1**: FLUX.1-dev
 
 ## Repository Structure
