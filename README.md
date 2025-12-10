@@ -284,3 +284,9 @@ If you use this code or find our work helpful, please cite:
   year={2025}
 }
 ```
+
+## Acknowledgements
+
+We thank the authors of the following repository for their code, which we partially referenced in this project:
+
+- [UnlearnDiffAtk](https://github.com/OPTML-Group/Diffusion-MU-Attack)
