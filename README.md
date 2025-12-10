@@ -43,7 +43,7 @@ neurips/
 ├── datasets/                      # Prompt datasets (safe/unsafe prompts, attack datasets)
 │
 ├── tasks/                         # Evaluation utilities
-│   ├── img_batch_classify.py     # NudeNet classification
+│   ├── img_batch_classify.py      # NudeNet classification
 │   ├── img_batch_classify_q16.py # Q16 classification
 │   └── utils/                    # Evaluation metrics and utilities
 │
