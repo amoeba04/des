@@ -178,7 +178,7 @@ python clipscore.py \
 **Core Arguments:**
 - `--model_path`: Hugging Face model ID or local path
 - `--codebook_dir`: Safe embedding codebook directory
-- `--unsafe_csv_path`: CSV file with unsafe prompts (for UEN loss)
+- `--unsafe_csv_path`: CSV file with unsafe prompts (for Unsafe loss)
 - `--safe_csv_path`: CSV file with safe prompts (for SEP loss)
 - `--output_dir`: Checkpoint save directory
 
