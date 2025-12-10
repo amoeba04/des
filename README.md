@@ -3,6 +3,7 @@
 **Official implementation of the paper accepted at NeurIPS 2025**
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/120328)
+[![Poster](https://img.shields.io/badge/poster-blue)](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/120328.png?t=1763712831.7198725)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.18877-b31b1b.svg)](https://arxiv.org/abs/2501.18877)
 
 > **Authors**: Jaesin Ahn, Heechul Jung (Kyungpook National University)
