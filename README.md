@@ -196,8 +196,8 @@ python clipscore.py \
 **SD v3.5 (Multiple Text Encoders):**
 
 SD v3.5 has 3 text encoders:
-- Encoder 1: CLIP ViT-L (768 dim)
-- Encoder 2: CLIP ViT-bigG (1280 dim)
+- Encoder 1: CLIP-L/14 (768 dim)
+- Encoder 2: CLIP-G/14 (1280 dim)
 - Encoder 3: T5-XXL (4096 dim)
 
 **Step 1: Generate codebook for specific encoder**
