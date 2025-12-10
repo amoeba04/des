@@ -16,7 +16,7 @@ DES transforms unsafe embeddings extracted from text encoders toward carefully c
 
 ### Key Results
 
-- **State-of-the-Art Defense**: ASR of **9.47%** on FLUX.1 and **0.52%** on SD v1.5
+- **State-of-the-Art Defense**: **ASR** of **9.47%** on FLUX.1 and **0.52%** on SD v1.5
 - **Superior Performance**: 76.5% and 63.9% ASR reduction compared to previous SOTA methods
 - **Quality Preservation**: Maintains FID and CLIP scores comparable to original models
 - **Practical Efficiency**: **90 seconds training time** with **zero inference overhead**
