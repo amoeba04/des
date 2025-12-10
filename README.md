@@ -124,6 +124,13 @@ python generate.py \
     --text_encoder_path "checkpoints/des_copro_sexual/1e-05_0.3/checkpoint-2.pt"
 ```
 
+#### Example Safe Outputs
+<p float="left">
+  <img src="https://github.com/amoeba04/des/blob/main/assets/generated_image.png" width="250" />
+  <img src="https://github.com/amoeba04/des/blob/main/assets/generated_image_2.png" width="250" /> 
+  <img src="https://github.com/amoeba04/des/blob/main/assets/generated_image_3.png" width="250" />
+</p>
+
 ### 4. Evaluation
 
 #### Attack Success Rate (ASR)
