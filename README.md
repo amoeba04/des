@@ -176,7 +176,7 @@ python clipscore.py \
 #### Training Arguments
 
 **Core Arguments:**
-- `--model_path`: HuggingFace model ID or local path
+- `--model_path`: Hugging Face model ID or local path
 - `--codebook_dir`: Safe embedding codebook directory
 - `--unsafe_csv_path`: CSV file with unsafe prompts (for UEN loss)
 - `--safe_csv_path`: CSV file with safe prompts (for SEP loss)
