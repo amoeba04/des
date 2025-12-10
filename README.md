@@ -189,7 +189,7 @@ python clipscore.py \
 **Training Configuration:**
 - `--num_epochs`: Training epochs (default: 2, typically sufficient)
 - `--learning_rate`: Learning rate (default: 1e-5)
-- `--batch_size`: 128 for SD v1.x, 16 for FLUX
+- `--batch_size`: 128 for SD v1.x, 16 for FLUX.1
 
 #### Multi-Model Support
 
