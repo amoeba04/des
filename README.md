@@ -258,7 +258,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train_des.py \
 - CLIP-G/14 (Stable Diffusion v3.x): [link](https://www.dropbox.com/scl/fi/qlmzjv33tmivnpu1qv5sa/des_clipg.pt?rlkey=2feesjw0qrk3c4vgo2el7foao&st=9qtfzfbi&dl=0)
 - T5-XXL (Stable Diffusion v3.x, FLUX.1): [link](https://www.dropbox.com/scl/fi/sofnetmz780jnnxqf3hr0/des_t5.pt?rlkey=3lpreqkc8nuggvezbfeyekgwz&st=yrpdxa8a&dl=0)
 
-#### Sexual, Violence, Illegal:
+#### Sexual, Violence, Illegal (Multiple NSFW concepts):
 - CLIP-L/14 (Stable Diffusion v1.x): [link](https://www.dropbox.com/scl/fi/yvtdbuwmtlskfqh8mefil/des_multi.pt?rlkey=vwnk46lc7rdfapc7panope0hj&st=r3ujh1ne&dl=0)
 
 #### Van Gogh:
