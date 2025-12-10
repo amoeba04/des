@@ -280,7 +280,7 @@ If you use this code or find our work helpful, please cite:
 @inproceedings{ahn2025des,
   title={Mitigating Sexual Content Generation via Embedding Distortion in Text-conditioned Diffusion Models},
   author={Ahn, Jaesin and Jung, Heechul},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
   year={2025}
 }
 ```
