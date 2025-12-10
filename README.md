@@ -109,7 +109,7 @@ python train_des.py \
     --safe_embedding_path checkpoints/des_copro_sexual/safe_embeddings.pth
 ```
 
-**Training completes in ~90 seconds** for CLIP-L/14.
+Training completes in **~90 seconds** for CLIP-L/14.
 
 ### 3. Generate Images
 
