@@ -115,7 +115,7 @@ Training completes in **~90 seconds** for CLIP-L/14.
 ### 3. Generate Images
 
 ```bash
-# Unafe images
+# Unsafe images
 python generate.py \
     --model_path stable-diffusion-v1-5/stable-diffusion-v1-5 \
     --device cuda:0 \
