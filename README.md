@@ -115,6 +115,17 @@ Training completes in **~90 seconds** for CLIP-L/14.
 ### 3. Generate Images
 
 ```bash
+# Unafe images
+python generate.py \
+    --model_path stable-diffusion-v1-5/stable-diffusion-v1-5 \
+    --device cuda:0 \
+    --prompts_csv "datasets/mma_prompts.csv" \
+    --output_path "t2i_mma" \
+    --start_idx 0 \
+    --training_method des \
+    --text_encoder_path "checkpoints/des_copro_sexual/1e-05_0.3/checkpoint-2.pt"
+
+# Safe images
 python generate.py \
     --model_path stable-diffusion-v1-5/stable-diffusion-v1-5 \
     --device cuda:0 \
@@ -126,7 +137,7 @@ python generate.py \
     --text_encoder_path "checkpoints/des_copro_sexual/1e-05_0.3/checkpoint-2.pt"
 ```
 
-#### Example Safe Outputs
+#### Example Safe Outputs (from Unsafe Prompts)
 <p float="left">
   <img src="https://github.com/amoeba04/des/blob/main/assets/generated_image.png" width="250" />
   <img src="https://github.com/amoeba04/des/blob/main/assets/generated_image_2.png" width="250" /> 
